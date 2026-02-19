@@ -1,36 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# The Autobiographer
 
-## Getting Started
+An interactive narrative game exploring Connie Rosati's philosophy of autobiographical authorship. Experience how the same life events can take on different meanings depending on the narrative lens through which you view them.
 
-First, run the development server:
+## 🎮 Game Concept
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The Autobiographer challenges the traditional game structure where choices change the future. Instead, you'll discover that while life's facts are immutable, their meaning is not. Through three phases, you'll experience the story of someone who applied to medical school three times and was rejected each time—but discover how different narrative lenses transform the meaning of these events.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Three Phases:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **The Facts** - Experience unchangeable life events (medical school rejections, career pivots, unexpected opportunities)
+2. **The Editor** - Reinterpret events through narrative lenses (Victim, Strategist, Learner)
+3. **The Recounting** - See your complete story and Personal Good Score
